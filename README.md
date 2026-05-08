@@ -12,9 +12,3 @@ For testing purposes a white LED has been used instead of a proper IR LED. The u
 
 **MUTE**
 ![MUTE](/toshiba_codes/toshiba_mute.png)
-
-**VOLUME-DOWN**
-![VOLUME-DOWN](/toshiba_codes/toshiba_volume_down.pdf)
-
-**VOLUME-UP**
-![VOLUME-UP](/toshiba_codes/toshiba_volume_up.pdf)
