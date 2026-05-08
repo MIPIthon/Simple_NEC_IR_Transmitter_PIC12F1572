@@ -4,3 +4,17 @@ Quick and dirty implementation of some functions (Volume up, volume down, mute, 
 ![Quick and dirty](/images/quick_and_dirty_breadboard_build.jpg)
 
 For testing purposes a white LED has been used instead of a proper IR LED. The used white LED seems to issue enough IR radiation for operation in a few centimeters distance from the receiver. Do not recommend, but better than nothing ...
+
+<h2>Commands recorded</h2>
+
+**ON-OFF**
+![ON-OFF](/toshiba_codes/toshiba_on_off.png)
+
+**MUTE**
+![MUTE](/toshiba_codes/toshiba_mute.png)
+
+**VOLUME-DOWN**
+![VOLUME-DOWN](/toshiba_codes/toshiba_volume_down.pdf)
+
+**VOLUME-UP**
+![VOLUME-UP](/toshiba_codes/toshiba_volume_up.pdf)
